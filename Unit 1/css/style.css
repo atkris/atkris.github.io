@@ -1,0 +1,9 @@
+body {background-color: black;
+     text-align: center;
+     display: block;
+     font-family:arial;
+}
+h1,p, {
+	color: white;
+	font-family: arial
+}
