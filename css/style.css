@@ -1,9 +1,14 @@
 body {background-color: black;
      text-align: center;
+     text-align: middle;
      display: block;
      font-family:arial;
+     color:white;
+     margin:8px;
 }
-h1,p, {
-	color: white;
-	font-family: arial
+h1,p, {color: white;
+	font-family: arial;
 }
+h1 {font-size: 40px;}
+h1 {margin:250px auto 75px auto;}
+
