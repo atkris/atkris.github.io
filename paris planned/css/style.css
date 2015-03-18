@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+	color: white;
+	font-family:arial, sans-serif;
+	text-align:center;
+	background-image:url(https://www.dropbox.com/s/0isudywdm56nr73/kristen_stairs.jpg);
+	background-position:center;
+
+}
+img {
+	float: center;
+}
+ul {
+	display:inline;
+}
+h1 {
+	font-size: 40px;
+	margin:250px auto 75px auto;
+}
