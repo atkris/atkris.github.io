@@ -5,8 +5,6 @@ body {
 	text-align:center;
 	background:url(images/kristen_stairs_cropped.jpg);
 	background-position:center;
-
-
 }
 img {
 	float: center;
@@ -14,15 +12,17 @@ img {
 ul {
 	display:inline;
 }
-h1 {
+h1 {font-family: 'Oswald', sans-serif;
 	font-size: 80px;
 	margin:250px auto 80px auto;
 }
 #slogan 
 	{
+	font-family: 'Quattrocento Sans', sans-serif;
 	font-size: 30px;
 	margin:120px auto 80px auto
 	}
 #description {
+	font-family: 'Quattrocento Sans', sans-serif;
 	font-size: 20px
 }
