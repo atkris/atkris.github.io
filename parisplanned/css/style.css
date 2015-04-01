@@ -1,3 +1,4 @@
+* { margin:0;padding:0;box-sizing:border-box; }
 body {
 	background-color: white;
 	color: white;
@@ -25,4 +26,11 @@ h1 {font-family: 'Oswald', sans-serif;
 #description {
 	font-family: 'Quattrocento Sans', sans-serif;
 	font-size: 20px
+}
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
 }
